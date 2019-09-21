@@ -1,0 +1,14 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Data.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Data.runtimeconfig.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Data.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.pdb
