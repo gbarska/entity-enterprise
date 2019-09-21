@@ -7,3 +7,6 @@
 /home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.0/MvcSalesApp.Domain.AssemblyInfo.cs
 /home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.0/MvcSalesApp.Domain.dll
 /home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.0/MvcSalesApp.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/bin/Debug/netcoreapp2.0/MvcSalesApp.SharedKernel.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/bin/Debug/netcoreapp2.0/MvcSalesApp.SharedKernel.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.0/MvcSalesApp.Domain.csproj.CopyComplete

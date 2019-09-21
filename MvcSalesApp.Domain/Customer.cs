@@ -7,9 +7,8 @@ namespace MvcSalesApp.Domain
   {
     private ICollection<Address> _addresses;
     private ICollection<Order> _orders;
-  
-    public Customer()
-    {
+
+    public Customer() {
       FirstName = "";
       LastName = "";
       DateOfBirth = DateTime.Today;
@@ -21,13 +20,14 @@ namespace MvcSalesApp.Domain
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public DateTime DateOfBirth { get; set; }
-    public  ContactDetail ContactDetail { get; set; }
+    public ContactDetail ContactDetail { get; set; }
 
     public ICollection<Order> Orders
     {
       get { return _orders; }
       set { _orders = value; }
     }
+
     public ICollection<Address> Addresses
     {
       get { return _addresses; }
@@ -41,5 +41,7 @@ namespace MvcSalesApp.Domain
         return LastName.Trim() + ", " + FirstName;
       }
     }
+
+    public string CustomerCookie { get; set; }
   }
 }

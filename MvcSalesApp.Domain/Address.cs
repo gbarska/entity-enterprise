@@ -11,6 +11,7 @@ namespace MvcSalesApp.Domain
     public string PostalCode { get; set; }
     public AddressType AddressType { get; set; }
     public int CustomerId { get; set; }
+
     public Customer Customer { get; set; }
   }
 } 

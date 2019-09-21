@@ -527,8 +527,24 @@
         }
       },
       "MvcSalesApp.Domain/1.0.0": {
+        "dependencies": {
+          "MvcSalesApp.SharedKernel": "1.0.0"
+        },
         "runtime": {
           "MvcSalesApp.Domain.dll": {}
+        }
+      },
+      "MvcSalesApp.SharedKernel/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.6",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.6",
+          "Microsoft.Extensions.Logging": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Console": "2.2.0",
+          "Pomelo.EntityFrameworkCore.MySql": "2.2.0"
+        },
+        "runtime": {
+          "MvcSalesApp.SharedKernel.dll": {}
         }
       }
     }
@@ -932,6 +948,11 @@
       "hashPath": "system.threading.tasks.extensions.4.3.0.nupkg.sha512"
     },
     "MvcSalesApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MvcSalesApp.SharedKernel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

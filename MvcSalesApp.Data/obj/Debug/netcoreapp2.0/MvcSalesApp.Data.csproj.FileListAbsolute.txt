@@ -12,3 +12,5 @@
 /home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.csproj.CopyComplete
 /home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.dll
 /home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/obj/Debug/netcoreapp2.0/MvcSalesApp.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.SharedKernel.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Data/bin/Debug/netcoreapp2.0/MvcSalesApp.SharedKernel.pdb

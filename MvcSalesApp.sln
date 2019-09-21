@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSalesApp.UI", "MvcSalesApp.UI\MvcSalesApp.UI.csproj", "{C5D2DBB7-67F7-48F7-B0A7-570FD06B962A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSalesApp.Web", "MvcSalesApp.Web\MvcSalesApp.Web.csproj", "{C5D2DBB7-67F7-48F7-B0A7-570FD06B962A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSalesApp.Data", "MvcSalesApp.Data\MvcSalesApp.Data.csproj", "{1981C78B-868C-4499-9A38-78031C2037EF}"
 EndProject

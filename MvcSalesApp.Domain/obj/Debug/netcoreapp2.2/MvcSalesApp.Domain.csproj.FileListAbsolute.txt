@@ -1,0 +1,9 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/bin/Debug/netcoreapp2.2/MvcSalesApp.Domain.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/bin/Debug/netcoreapp2.2/MvcSalesApp.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/bin/Debug/netcoreapp2.2/MvcSalesApp.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.2/MvcSalesApp.Domain.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.2/MvcSalesApp.Domain.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.2/MvcSalesApp.Domain.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.2/MvcSalesApp.Domain.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.2/MvcSalesApp.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.Domain/obj/Debug/netcoreapp2.2/MvcSalesApp.Domain.pdb
