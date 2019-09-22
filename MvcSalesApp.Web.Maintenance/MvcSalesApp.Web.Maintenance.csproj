@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+     <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+ <ItemGroup>
+    <ProjectReference Include="..\BC_Maintenance\Domain\Maintenance.Domain.csproj" />
+    <ProjectReference Include="..\BC_Maintenance\Data\Maintenance.Data.csproj" />
+     <ProjectReference Include="..\BC_ShoppingCart\Domain\ShoppingCart.Domain.csproj" />
+    <ProjectReference Include="..\BC_ShoppingCart\Data\ShoppingCart.Data.csproj" />
+    <ProjectReference Include="..\BC_ShoppingCart\Services\ShoppingCart.Services.csproj" />
+    <ProjectReference Include="..\SharedKernel\MvcSalesApp.SharedKernel.csproj" />
+  </ItemGroup>
+  
+</Project>

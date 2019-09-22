@@ -1,0 +1,4 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/obj/Debug/netcoreapp2.2/ShoppingCart.Tests.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/obj/Debug/netcoreapp2.2/ShoppingCart.Tests.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/obj/Debug/netcoreapp2.2/ShoppingCart.Tests.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/obj/Debug/netcoreapp2.2/ShoppingCart.Tests.AssemblyInfo.cs

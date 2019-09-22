@@ -1,0 +1,16 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Data.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Data.runtimeconfig.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Data.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/ShoppingCart.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/SharedKernel.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Data/bin/Debug/netcoreapp2.2/SharedKernel.pdb

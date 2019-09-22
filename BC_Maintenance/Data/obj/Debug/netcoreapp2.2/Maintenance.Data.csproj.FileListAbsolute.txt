@@ -1,0 +1,16 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Data.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Data.runtimeconfig.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Data.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/Maintenance.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/obj/Debug/netcoreapp2.2/Maintenance.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/SharedKernel.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Data/bin/Debug/netcoreapp2.2/SharedKernel.pdb

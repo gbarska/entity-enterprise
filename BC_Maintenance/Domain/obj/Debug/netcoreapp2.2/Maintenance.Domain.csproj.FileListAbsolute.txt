@@ -1,0 +1,9 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/bin/Debug/netcoreapp2.2/Maintenance.Domain.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/bin/Debug/netcoreapp2.2/Maintenance.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/bin/Debug/netcoreapp2.2/Maintenance.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/obj/Debug/netcoreapp2.2/Maintenance.Domain.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/obj/Debug/netcoreapp2.2/Maintenance.Domain.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/obj/Debug/netcoreapp2.2/Maintenance.Domain.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/obj/Debug/netcoreapp2.2/Maintenance.Domain.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/obj/Debug/netcoreapp2.2/Maintenance.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Maintenance/Domain/obj/Debug/netcoreapp2.2/Maintenance.Domain.pdb

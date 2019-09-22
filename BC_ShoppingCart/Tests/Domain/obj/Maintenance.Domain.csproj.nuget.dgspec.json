@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/Domain/Maintenance.Domain.csproj": {}
+  },
+  "projects": {
+    "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Domain/ShoppingCart.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Domain/ShoppingCart.Domain.csproj",
+        "projectName": "ShoppingCart.Domain",
+        "projectPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Domain/ShoppingCart.Domain.csproj",
+        "packagesPath": "/home/gbarska/.nuget/packages/",
+        "outputPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gbarska/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel/MvcSalesApp.SharedKernel.csproj": {
+                "projectPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel/MvcSalesApp.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/Domain/Maintenance.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/Domain/Maintenance.Domain.csproj",
+        "projectName": "Maintenance.Domain",
+        "projectPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/Domain/Maintenance.Domain.csproj",
+        "packagesPath": "/home/gbarska/.nuget/packages/",
+        "outputPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Tests/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gbarska/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Domain/ShoppingCart.Domain.csproj": {
+                "projectPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_ShoppingCart/Domain/ShoppingCart.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel/MvcSalesApp.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel/MvcSalesApp.SharedKernel.csproj",
+        "projectName": "MvcSalesApp.SharedKernel",
+        "projectPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel/MvcSalesApp.SharedKernel.csproj",
+        "packagesPath": "/home/gbarska/.nuget/packages/",
+        "outputPath": "/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gbarska/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

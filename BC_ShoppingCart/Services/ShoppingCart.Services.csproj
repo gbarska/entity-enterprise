@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <ProjectReference Include="..\Domain\ShoppingCart.Domain.csproj" />
+    <ProjectReference Include="..\Data\ShoppingCart.Data.csproj" />
+    <ProjectReference Include="..\MvcSalesApp.SharedKernel\MvcSalesApp.SharedKernel.csproj" />
+     <!-- <ProjectReference Include="..\..\..\MvcSalesApp.SharedKernel\MvcSalesApp.SharedKernel.csproj" /> -->
+  </ItemGroup>
+</Project>

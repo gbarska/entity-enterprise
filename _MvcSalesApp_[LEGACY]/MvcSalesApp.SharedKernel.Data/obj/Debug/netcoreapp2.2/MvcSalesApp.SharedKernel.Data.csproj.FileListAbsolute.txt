@@ -1,0 +1,17 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.runtimeconfig.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/bin/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/obj/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/obj/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/obj/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/obj/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/obj/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/MvcSalesApp.SharedKernel.Data/obj/Debug/netcoreapp2.2/MvcSalesApp.SharedKernel.Data.pdb
