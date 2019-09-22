@@ -1,0 +1,16 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Data.deps.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Data.runtimeconfig.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Data.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Data.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Domain.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/SharedKernel.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/Order.Domain.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/bin/Debug/netcoreapp2.2/SharedKernel.pdb
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.dll
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order_CQRS/Write/Data/obj/Debug/netcoreapp2.2/Order.Data.pdb
