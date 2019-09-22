@@ -13,6 +13,8 @@ namespace Maintenance.Domain
     public string Skype { get; set; }
     public string Messenger { get; set; }
     public int CustomerId { get; set; }
-    //public Customer Customer { get; set; }
+
+    //defining 1:0..1 relation in EF
+    // public Customer Customer { get; set; }
   }
 }

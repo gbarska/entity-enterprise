@@ -24,6 +24,7 @@ namespace ShoppingCart.Domain
       State=ObjectState.Added;
     }
 
+    //required constructor for EF to be used in reflection when populating objects queried from db
     private CartItem()
     {
       

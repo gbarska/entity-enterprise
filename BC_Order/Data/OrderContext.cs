@@ -1,19 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Console;
-using Maintenance.Domain;
+using Order.Domain;
 
-namespace Maintenance.Data
+namespace Order.Data
 {
-    public class MaintenanceContext : DbContext
+    public class OrderContext : DbContext
     {
-        public MaintenanceContext(DbContextOptions<MaintenanceContext> options) : base(options)
+        public OrderContext(DbContextOptions<OrderContext> options) : base(options)
         {
         }
-        public MaintenanceContext(){}
+        public OrderContext(){}
 
-        public DbSet<Customer> Customers { get; set; }
-        public DbSet<Product> Products { get; set; }
+        public DbSet<SalesOrder> Orders { get; set; }
     
           public static readonly LoggerFactory MyConsoleLoggerFactory
          = new LoggerFactory(new [] {
@@ -24,10 +23,14 @@ namespace Maintenance.Data
 
          protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("Maintenance");
-            // modelBuilder.Entity<Customer>()
-            //             .HasOne(c=> c.ContactDetail)
-            //             .WithOne();
+            modelBuilder.HasDefaultSchema("Order");
+            // modelBuilder.Entity<SalesOrder>.OwnsOne(s=>s.Address);
+
+            modelBuilder.Ignore<Domain.DTOs.Customer>();
+            modelBuilder.Ignore<Domain.DTOs.CartItem>();
+            
+            //value types mapping in EF
+             modelBuilder.Entity<SalesOrder>().OwnsOne(s => s.ShippingAddress).ToTable("ShippingAddresses");
 
             base.OnModelCreating(modelBuilder);
         }
@@ -37,7 +40,7 @@ namespace Maintenance.Data
                
                  builder
                 .UseLoggerFactory(MyConsoleLoggerFactory)
-                //  .UseMySql(connString)
+                 .UseMySql(connString)
                 .EnableSensitiveDataLogging(true);
             
         }

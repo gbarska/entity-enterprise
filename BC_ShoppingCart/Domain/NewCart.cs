@@ -16,6 +16,14 @@ namespace ShoppingCart.Domain
       return cart;
     }
 
+    //NewCart is an agregate root its job is to handle and expose a collection of properties 
+    // to follow the agregate pattern from ddd concepts we have set the properties and constructors private
+    // so if we wanto EF to populate an object like newcart we must offer an parameterless constructor
+    // to be used with reflections 
+    // public NewCart()
+    // { 
+    // }
+
     private NewCart(string sourceUrl, string customerCookie) {
       if (Uri.IsWellFormedUriString(sourceUrl, UriKind.Absolute)) {
         SourceUrl = sourceUrl;

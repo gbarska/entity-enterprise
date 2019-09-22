@@ -1,0 +1,6 @@
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.Migrations.201607021912154_init.resources
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.csproj.GenerateResource.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/entity-architecture-enterprise/entity-enterprise/BC_Order/Data/obj/Debug/netcoreapp2.2/ShoppingCart.Data.AssemblyInfo.cs
